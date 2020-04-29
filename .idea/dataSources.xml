@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="PostgreSQL - tresorerie@localhost" uuid="a0a9115b-b86e-4b21-8208-d8b0a68c3aef">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/tresorerie</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="adden" uuid="6bc1ae40-7818-44da-b128-6f85430e126b">
+      <driver-ref>oracle</driver-ref>
+      <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
+      <jdbc-driver>oracle.jdbc.OracleDriver</jdbc-driver>
+      <jdbc-url>jdbc:oracle:thin:@//164.160.33.37:1521/xepdb1</jdbc-url>
+    </data-source>
+  </component>
+</project>
